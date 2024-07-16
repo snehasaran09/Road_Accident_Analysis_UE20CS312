@@ -1,4 +1,4 @@
-# Road Accident Anlysis of Severity Per Vehicle Type 
+# Road Accident Analysis of Severity Per Vehicle Type 
 
 The primary goal of this project is to use statistical analysis methods such as multiple linear regression to gain insights into the road accidents depending on the vehicle type, state and their injury measure. Using data obtained from the government website a comparison between state groups is performed using the standardized regression coefficients to check for contrasts between different types of vehicles. Analysis of these variables on a macroeconomic scale is imperative in order to gain insight on the current scenario, and to see if improvements in any sector would lead to monumental change and growth overall.The aim of this paper is to identify the major vehicles that cause fatal road accidents to two wheeler vehicles and 4 wheeler vehicles.
  
